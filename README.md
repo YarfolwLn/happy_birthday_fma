@@ -11,4 +11,8 @@
 
 
 
+Добавлен фон
+
+
+
 <img width="296" height="637" alt="image" src="https://github.com/user-attachments/assets/30af9d40-02eb-4a63-9106-82ad910f8e1e" />
